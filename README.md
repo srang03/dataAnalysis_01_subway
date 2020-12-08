@@ -6,21 +6,21 @@
 파이썬 데이터 분석
 ### 1. 데이터 처리
 1 파일 다루기
-*01_getting_part_part_of_word.py
+-01_getting_part_part_of_word.py
 문자열로 이루어진 text 리스트에서 k로 시작하는 문자열을 하나씩 출력하는 print_korea() 함수를 작성한다.
 
 2 문자열 함수
-*02_how_to_use_split.py
+-02_how_to_use_split.py
 문자열을 리스트로 반환하는 split() 함수의 이해하기 위해 문자열 변수의 텍스트를 공백 기준으로 분리하고 리스트형으로 반환하는 break_into_words() 함수를 작성한다.
 
 3 리스트 함수
-*03_how_to_use_append.py
+-03_how_to_use_append.py
 리스트에서 b로 시작하는 요소를 새로운 리스트에 저장하는 make_new_list() 함수를 구현한다.
 
-*04_how_to_use_upper_lower.py
+-04_how_to_use_upper_lower.py
 리스트의 문자열 요소를 모두 소문자로 변환하는 lowercase_all_characters() 함수를 구현한다.
 
-*05_how_to_use_replace.py
+-05_how_to_use_replace.py
 리스트의 문자열 요소에서 쉼표, 작은 따옴표, 느낌표를 제거하는 remove_special_characters() 함수를 작성한다.
 
 
