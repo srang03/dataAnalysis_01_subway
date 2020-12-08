@@ -5,8 +5,8 @@
 
 파이썬 데이터 분석
 ### 1. 데이터 처리
-1 파일 다루기
--01_getting_part_part_of_word.py
++ 파일 다루기
+  + 01_getting_part_part_of_word.py
 문자열로 이루어진 text 리스트에서 k로 시작하는 문자열을 하나씩 출력하는 print_korea() 함수를 작성한다.
 
 2 문자열 함수
