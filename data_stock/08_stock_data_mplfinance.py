@@ -19,8 +19,8 @@ import numpy as np
 
 
 # 주식 데이터 불러오기
-df = pd.read_csv('./data/stock.csv', index_col = 0, parse_dates = True) 
-df2 = pd.read_csv('./data/stock.csv', index_col = 0, parse_dates = True) 
+df = pd.read_csv('./data/stock.csv', index_col = 0, parse_dates = True)
+df2 = pd.read_csv('./data/stock.csv', index_col = 0, parse_dates = True)
 
 print('주가 데이터 출력')
 print(df)
@@ -44,7 +44,7 @@ plt.savefig("./data/plot_4.png")
 # 최고가: 하루 중 최고 가격
 
 
-# 봉차트는 주가가 올랐을 때는 빨간색으로 표현하며 이를 ‘양봉’이라고 합니다. 
+# 봉차트는 주가가 올랐을 때는 빨간색으로 표현하며 이를 ‘양봉’이라고 합니다.
 # 반대로 주가가 내렸을 때는 파란색으로 그리고, 이를 ‘음봉’이라고 합니다.
 
 # 캔들 차트의 두꺼운 부분의 양쪽 끝은 시가와 종가가 됩니다.
