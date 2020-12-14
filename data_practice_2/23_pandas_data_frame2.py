@@ -36,4 +36,5 @@ country.to_excel('./data/country.xlsx')
 read_file_csv = pd.read_csv('./data/country.csv')
 read_file_excel = pd.read_excel('./data/country.xlsx')
 
+print(read_file_csv)
 print(read_file_excel)
